@@ -11,11 +11,32 @@ The Collective is primarily managed by two people:
 
 ![spacer](/profile/img/38x38.png)
 
-# The Squad's Ventures
+# Our Ventures
 
-**#MamaNyoSquad** is the home of its many ventures, many that serve different contexts that matter to the nation:
+**#MamaNyoSquad** is the home of its many ventures, many that serve different contexts that matter:
 
 <details>
-  <summary><h2>#MamaNyoSquad Publishing</h2></summary>
-  text
+
+  <summary><h2>#MamaNyoSquad Publishing 📖</h2></summary>
+
+  **#MamaNyoSquad Publishing** is the home of its first publication -- Venus Island Diaries -- as well as its Inside Story Series.
+
+  It's currently celebrating its **4th Year** of bringing the Venuses' lives to the public, through the writings of the Diaries.
+
+  ![#MamaNyoSquad Publishing @ 4](https://pbs.twimg.com/media/G0Fp6-raAAAOJwo?format=jpg&name=large)
+
 </details>
+
+<details>
+
+  <summary><h2>#MamaNyoVotesPH: 「We VOTE for the Future」 🗳️</h2></summary>
+
+  **#MamaNyoVotesPH** commenced to give light about the events surrounding the Midterm and General Elections in the Philippines.
+
+  Related commentaries are presented by the G.Mgr -- outlining her thoughts about the event and its outcome.
+
+  ![#MamaNyoSquad Publishing @ 4](https://pbs.twimg.com/media/Gqm5YDOXcAAR8-J?format=jpg&name=large)
+
+</details>
+
+Should there be more ventures, it will be stipulated on the website and on this document.
