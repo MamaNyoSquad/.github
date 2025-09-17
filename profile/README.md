@@ -9,6 +9,8 @@ The Collective is primarily managed by two people:
 - [**Aga-chuu (@thebelovedmoon)**](https://github.com/thebelovedmoon) - General Manager (G.Mgr)
 - [**Emmannuel Ortega (@Ortega082)**](https://github.com/Ortega082) - Social & Web Manager (SocWeb Mgr)
 
+<div style="width: 100%; height: 3.8rem;"></div>
+
 # The Squad's Ventures
 
 **#MamaNyoSquad** is the home of its many ventures, many that serve different contexts that matter to the nation:
