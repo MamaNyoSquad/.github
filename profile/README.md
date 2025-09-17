@@ -9,7 +9,7 @@ The Collective is primarily managed by two people:
 - [**Aga-chuu (@thebelovedmoon)**](https://github.com/thebelovedmoon) - General Manager (G.Mgr)
 - [**Emmannuel Ortega (@Ortega082)**](https://github.com/Ortega082) - Social & Web Manager (SocWeb Mgr)
 
-<div style="width: 100%; height: 38px;"></div>
+![spacer](/profile/img/38x38.png)
 
 # The Squad's Ventures
 
