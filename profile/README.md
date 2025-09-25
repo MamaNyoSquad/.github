@@ -33,7 +33,7 @@ The Collective is primarily managed by two people:
 
   <summary><h2>#MamaNyoVotesPH: 「We VOTE for the Future」 🗳️</h2></summary>
 
-  **#MamaNyoVotesPH** was commenced to give light about the events surrounding the Midterm and General Elections in the Philippines.
+  **#MamaNyoVotesPH** is commenced to give light about the events surrounding the Midterm and General Elections in the Philippines.
 
   Related commentaries are presented by the G.Mgr -- outlining her thoughts about the event and its outcome.
 
@@ -87,7 +87,7 @@ Below are some relevant projects:
   
   All broadcast-related resources that enhances the viewers' experience, with elements reminiscent of BBC News -- purely built in HTML, with JavaScript functions that act as commands for each overlay.
 
-  There is also documentation into how each function works, and proper steps in order to execute them in a smooth manner.
+  There is also documentation into how each function works, and proper steps in order to execute them in a smooth manner; should they be used in other use cases and situations where applicable.
 
 </details>
 
