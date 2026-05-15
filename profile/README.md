@@ -16,25 +16,45 @@
   <br>
 
   ## The SquadMates
+  
+  <img src="img/AgaChuu.png" width="285px">
 
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <img width="100%" src="img/AgaChuu.png" alt="Aga-chuu, G.Mgr">
-        <h3>Aga-chuu, G.Mgr</h3>
-        <img src="https://img.shields.io/badge/github-thebelovedmoon-793a80?logo=github&link=https%3A%2F%2Fgithub.com%2Fthebelovedmoon" alt="GitHub">
-      </td>
-      <td width="50%" align="center">
-        <img width="100%" src="img/Ortega082.png" alt="Emmannuel Ortega, SocWeb Mgr">
-        <h3>Emmannuel Ortega, SocWeb Mgr</h3>
-        <img src="https://img.shields.io/badge/github-Ortega082-dcdcc4?logo=github&link=https%3A%2F%2Fgithub.com%2FOrtega082" alt="GitHub">
-      </td>
-    </tr>
-  </table>
+  #### Aga-chuu, G.Mgr
+
+  [![GitHub](https://img.shields.io/badge/github-thebelovedmoon-793a80?logo=github)](https://github.com/thebelovedmoon)
+
+  <br>
+  
+  <img src="img/Ortega082.png" width="285px">
+
+  #### Emmannuel Ortega, SocWeb Mgr
+
+  [![GitHub](https://img.shields.io/badge/github-Ortega082-dcdcc4?logo=github)](https://github.com/Ortega082)
+
+  <br>
+
+  ## Our Main Projects
+
+  [![MamaNyoSquad/mamanyosquad.github.io](https://svg.bookmark.style/api?url=https://github.com/MamaNyoSquad/mamanyosquad.github.io&mode=dark&style=vertical)](https://github.com/MamaNyoSquad/mamanyosquad.github.io)
+
+  [![MamaNyoSquad/publishing](https://svg.bookmark.style/api?url=https://github.com/MamaNyoSquad/publishing&mode=dark&style=horizontal)](https://github.com/MamaNyoSquad/publishing)
+
+  ### Side Projects
+
+  [![MamaNyoSquad/MamaNyoLive](https://svg.bookmark.style/api?url=https://github.com/MamaNyoSquad/MamaNyoLive&mode=dark&style=horizontal)](https://github.com/MamaNyoSquad/MamaNyoLive)
+
+  [![MamaNyoSquad/MamaNyoVotesPH](https://svg.bookmark.style/api?url=https://github.com/MamaNyoSquad/MamaNyoVotesPH&mode=dark&style=horizontal)](https://github.com/MamaNyoSquad/MamaNyoVotesPH)
 
   <br>
   <br>
 
-  **©2020 #MamaNyoSquad&ensp;&bull;&ensp;a proud brand of tbmassoc**
+  <img src="https://mamanyosquad.github.io/assets/images/logo/MamaNyoAnniv/MamaNyo_5anniv.png" width="380px">
+  
+  ### *5 Years of Prismatic Legacy, and Beyond*
+
+  <br>
+  <br>
+
+  ©2020 #MamaNyoSquad&ensp;&bull;&ensp;a proud brand of tbmassoc
 
 </div>
