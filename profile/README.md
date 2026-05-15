@@ -21,15 +21,13 @@
     <tr>
       <td width="50%" align="center">
         <img width="100%" src="img/AgaChuu.png" alt="Aga-chuu, G.Mgr">
-        <br>
-        <h3>Aga-chuu</h3>
-        <p>G.Mgr</p>
+        <h3>Aga-chuu, G.Mgr</h3>
+        <img src="https://img.shields.io/badge/github-thebelovedmoon-793a80?logo=github&link=https%3A%2F%2Fgithub.com%2Fthebelovedmoon" alt="GitHub">
       </td>
       <td width="50%" align="center">
         <img width="100%" src="img/Ortega082.png" alt="Emmannuel Ortega, SocWeb Mgr">
-        <br>
-        <h3>Emmannuel Ortega</h3>
-        <p>SocWeb Mgr</p>
+        <h3>Emmannuel Ortega, SocWeb Mgr</h3>
+        <img src="https://img.shields.io/badge/github-Ortega082-dcdcc4?logo=github&link=https%3A%2F%2Fgithub.com%2FOrtega082" alt="GitHub">
       </td>
     </tr>
   </table>
